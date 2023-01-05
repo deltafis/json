@@ -1,0 +1,39 @@
+{
+  "name": "Deltafi Coin WL",
+  "symbol": "DELFI",
+  "description": "DeltaFi introduces DeFi 2.0 that automates depositing LP, staking and claiming\nCongratulations. Your wallet address has earned WhiteList rights.\nMint for free now before your mint expires.👇",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://deltafi.netlify.app/",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "15.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "C9aq79ShMTivuEEMsbxWdjboGVKs765RB5GFgx6whYBH",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://s2.coinmarketcap.com/static/img/coins/64x64/18578.png",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "DELFI",
+    "family": "WhiteList"
+  },
+  "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18578.png"
+}
